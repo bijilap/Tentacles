@@ -1,0 +1,12 @@
+{
+  "name": "Test 1",
+  "url" : "http://www.google.com",
+  "method" : "GET",
+  "request" : {
+    "payload" : {"q": "python"},
+    "headers" : {}
+  },
+  "validations" :  {
+    "status_code" : "400"
+  }
+}
